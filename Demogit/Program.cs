@@ -12,6 +12,8 @@ namespace Demogit
         {
 
             //aded some code here
+
+            //new comment added
         }
     }
 }
